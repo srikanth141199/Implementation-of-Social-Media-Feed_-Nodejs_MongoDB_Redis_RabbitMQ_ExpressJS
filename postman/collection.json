@@ -1,0 +1,9 @@
+{
+ "info":{"name":"Assignment11 Feed"},
+ "item":[
+ {"name":"Create Post"},
+ {"name":"Pull Feed"},
+ {"name":"Hybrid Feed"},
+ {"name":"Rank Feed"}
+ ]
+}

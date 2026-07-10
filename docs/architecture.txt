@@ -1,0 +1,13 @@
+User
+ |
+API Gateway
+ |
+Auth
+ |
+Feed Service
+ |----Redis
+ |----MongoDB
+ |
+RabbitMQ
+ |
+Feed Worker

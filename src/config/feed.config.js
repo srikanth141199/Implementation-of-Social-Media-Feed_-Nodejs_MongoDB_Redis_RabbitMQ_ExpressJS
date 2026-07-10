@@ -1,0 +1,4 @@
+module.exports={
+CELEBRITY_THRESHOLD:10000,
+FEED_LIMIT:20
+};

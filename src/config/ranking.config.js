@@ -1,0 +1,5 @@
+module.exports={
+RECENCY_WEIGHT:0.8,
+LIKE_WEIGHT:0.2,
+TOP_K:20
+};

@@ -1,0 +1,5 @@
+User->API: GET /feed
+API->Redis: Cached Feed
+API->Mongo: Celebrity Posts
+API->Ranking: Score
+API->User: Top20 Feed
